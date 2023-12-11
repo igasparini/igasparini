@@ -1,16 +1,24 @@
-### Hi there 👋
+### Buongiorno! 👋
 
-<!--
-**igasparini/igasparini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **MSE Data Science Student @ BFH**  
+🔗 [BFH Data Science Program](https://www.bfh.ch/en/studies/master/data-science/)
 
-Here are some ideas to get you started:
+**Interests:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 **Deep Learning**
+- 🌍 **Geoinformatics**
+- 🗺️ **Spatial Reasoning**
+- 🏗️ **Infrastructure & Natural Hazards**
+
+**Languages:**
+
+- 🇮🇹 Italian
+- 🇩🇪 German
+- 🇬🇧 English
+- 🇫🇷 French
+
+---
+
+_“Clearly, balance and chaos are different gods, yet they really love to dance together.”_ 💃🕺
+
+---
