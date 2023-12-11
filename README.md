@@ -1,7 +1,6 @@
 ### Buongiorno! 👋
 
-🎓 **MSE Data Science Student @ BFH**  
-🔗 [BFH Data Science Program](https://www.bfh.ch/en/studies/master/data-science/)
+🎓 **MSE Data Science Student @ [BFH](https://www.bfh.ch/en/studies/master/data-science/)**
 
 **Interests:**
 
