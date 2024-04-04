@@ -1,10 +1,8 @@
-### Buongiorno! 👋
-
-🎓 **MSE Data Science Student @ [BFH](https://www.bfh.ch/en/studies/master/data-science/)**
+### 🎓 **MSE Data Science Student @ [BFH](https://www.bfh.ch/en/studies/master/data-science/)**
 
 **Interests:**
 
-- 🧠 **Deep Learning**
+- 🧠 **Machine Learning**
 - 🌍 **Geoinformatics**
 - 🗺️ **Spatial Reasoning**
 - 🏗️ **Infrastructure & Natural Hazards**
